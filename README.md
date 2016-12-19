@@ -1,4 +1,4 @@
 # SwiftXRT_extraction
 Quick spectral extraction of multiple Swift/XRT observations.
 
-**Note** Swift team already have produced great reduction pipelines, guides and online resources for all analyses. This script is using those resources to quickly go through reduction scripts for multiple observations.
+This script uses resources and tasks provided by the Swift team as a part of HEASOFT to quickly go through reduction and spectral extraction for multiple XRT observations.
