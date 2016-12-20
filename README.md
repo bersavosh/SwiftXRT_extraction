@@ -3,7 +3,7 @@ Quick spectral extraction of multiple Swift/XRT observations.
 
 This script uses resources and tasks provided by the Swift team (e.g., see [here](http://www.swift.ac.uk/analysis/xrt/spectra.php)) to quickly go through reduction and spectral extraction for multiple XRT observations. 
 
-** STILL IN DEVELOPEMENT AND NOT FUNCTIONAL **
+**STILL IN DEVELOPEMENT AND NOT FUNCTIONAL**
 
 
 Currently the code assumes all the event files for all observations are dumped in the same folder where the code runs. This can be done by running `xrtpipeline` on all observations and dumping products in the same folder.
