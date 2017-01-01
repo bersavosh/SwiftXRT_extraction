@@ -16,3 +16,4 @@ Things to fix:
 - for multiple-GTI observations even when you say no to extraction it asks for separation
 - handling pile up within the code?
 - better light curve plots with axis labels, etc.
+- file clean up
