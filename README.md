@@ -10,7 +10,7 @@ Currently the code assumes all the event files for all observations are dumped i
 
 Things to fix:
 
-- Lightcurve plotting and extraction
+- automated lightcurve can look weird sometimes, maybe due to `xrtpipeline` coords being set to `OBJECT`.
 - handling GTI separated spectral extraction: currently it doesn't make exposure maps for each segment
 - handling pile up for multi-segment observations: make image for each segment to run in Ximage
 - for multiple-GTI observations even when you say no to extraction it asks for separation
