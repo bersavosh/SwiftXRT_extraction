@@ -256,7 +256,7 @@ for i in range(len(file_names)):
 
 fin_flist = os.listdir('./')
 new_files = set(fin_flist)-set(init_flist)
-print 'Files created by this script:'
+print 'Files created during this process:'
 for f_ind in new_files: print f_ind
 print 'Execution done. Please check for errors and warnings.'
 
