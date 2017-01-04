@@ -11,7 +11,7 @@ The script [XRT_ASE](https://github.com/bersavosh/XRT_ASE/blob/master/XRT_ASE.py
 - handling pile up
 - file clean up
 
-### Things to what out for:
+### Things to watch out for:
 - Automated lightcurve can look weird sometimes, if the source is faint and actual source coordinates are not exactly consistent with `OBJECT` coordinates in the observation.
 
 More updates and detailed description to be added.
