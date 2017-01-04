@@ -7,6 +7,12 @@ The code assumes all the event files for all observations are dumped in the same
 
 The script [XRT_ASE](https://github.com/bersavosh/XRT_ASE/blob/master/XRT_ASE.py) is currently in preliminary form.
 
+### Tasks:
+- XRT spectral extraction (**Done**)
+- XSPEC fitting 
+- UVOT photometry
+- plotting light curves
+
 ### Things to improve:
 - handling pile up
 - file clean up
