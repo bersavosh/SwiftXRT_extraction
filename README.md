@@ -14,8 +14,10 @@ The script [XRT_ASE](https://github.com/bersavosh/XRT_ASE/blob/master/XRT_ASE.py
 - plotting light curves
 
 ### Things to improve:
+- Check observation/segment expsure and counts
+- allow skipping extraction from a segment
 - handling pile up
-- file clean up:
+- file clean up
 - create/open a logfile and check status of previous runs in the directory
 - Tabulate observations better before analysis
 
