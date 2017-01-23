@@ -15,7 +15,9 @@ The script [XRT_ASE](https://github.com/bersavosh/XRT_ASE/blob/master/XRT_ASE.py
 
 ### Things to improve:
 - handling pile up
-- file clean up
+- file clean up:
+- create/open a logfile and check status of previous runs in the directory
+- Tabulate observations better before analysis
 
 ### Things to watch out for:
 - Automated lightcurve can look weird sometimes, if the source is faint and actual source coordinates are not exactly consistent with `OBJECT` coordinates in the observation.
