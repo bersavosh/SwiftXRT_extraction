@@ -16,6 +16,7 @@ The script [XRT_ASE](https://github.com/bersavosh/XRT_ASE/blob/master/XRT_ASE.py
 ### Things to improve:
 - Check observation/segment expsure and counts
 - allow skipping extraction from a segment
+- ask to launch DS9
 - handling pile up
 - file clean up
 - create/open a logfile and check status of previous runs in the directory
