@@ -15,7 +15,7 @@ The script [XRT_ASE](https://github.com/bersavosh/XRT_ASE/blob/master/XRT_ASE.py
 
 ### Things to improve:
 - Check observation/segment expsure and counts
-- for observations in `auto`
+- Check obs exposure and if too short, ask to omit (mainly for observations in `auto`)
 - allow skipping extraction from a segment
 - Colored warnings in terminal
 - ask to launch DS9
