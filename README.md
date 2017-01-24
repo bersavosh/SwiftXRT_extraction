@@ -19,6 +19,7 @@ The script [XRT_ASE](https://github.com/bersavosh/XRT_ASE/blob/master/XRT_ASE.py
 - Colored warnings in terminal
 - ask to launch DS9
 - handling pile up
+- handling bursts
 - file clean up
 - create/open a logfile and check status of previous runs in the directory
 - Tabulate observations better before analysis
